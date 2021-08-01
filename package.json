@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2",
+    "puppeteer": "^10.1.0",
+    "rimraf": "^2.6.3",
+    "expect": "^25.2.7"
+  }
+}
